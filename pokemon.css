@@ -1,0 +1,40 @@
+html,body {
+	padding:0px;
+	margin:0px;
+}
+body {
+	width: 100%;
+	background-color:gray;
+}
+h1 {
+	text-decoration: overline line-through underline;
+}
+h2 {
+	border: solid black 2px;
+	width: 200px;
+	background-color: red;
+	text-decoration:line-through;
+}
+p {
+	border: solid black 2px;
+	font-family: "Times New Roman", Times, serif;
+	text-decoration: underline;
+	color:teal;
+}
+tr{
+	background-color: blue;
+}
+td{
+	border: solid black 2px;
+}
+img{
+	width:34vh;
+	height:34vh;
+}
+#lol {
+	background-color: yellow;
+}
+th{
+	background-color: purple;
+	text-decoration:underline;
+}
